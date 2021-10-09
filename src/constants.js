@@ -1,0 +1,25 @@
+"use-strict";
+
+export const ADVICE_CONTANER_ID = "advice-container";
+export const ADVICE_CONTAINER_CLASS = "advice-container";
+export const TEXT_CLASS = "texts";
+export const ACTIVITY_LIST_ID = "activity-type-list";
+export const MAIN_CONTAINER_ID = "container";
+export const CATEGORY_CONTAINER_ID = "category-container";
+export const CATEGORY_CLASS = "category-container";
+export const ADVISE_BUTTON_CLASS = "advice-button";
+export const TYPE_LIST_ID = "activity-type-list";
+export const TYPE_CLASS = "category-list";
+export const DESTINY_CONTAINER_ID = "destiny-container";
+export const DESTINY_CLASS = "destiny-container";
+export const DESTINY_BUTTON_CLASS = "destiny-button";
+export const DESTINY_TEXT_CLASS = "destiny-text";
+export const ADVICE_TEXT_ID = "advice-text";
+export const AUTHOR_ELEMENT_ID = "author";
+export const AUTHOR_CLASS = "author";
+export const MUSIC_ELEMENT_ID = "music";
+export const NUMBER_OF_MUSICS = 7;
+export const API_URL = "http://www.boredapi.com/api/";
+export const URL_PARAMETER = "activity?";
+export const IMAGE_URL = "./public/media/images/quote.png";
+export const MUSIC_PATH = "./public/media/music/";
