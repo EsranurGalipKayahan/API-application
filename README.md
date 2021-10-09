@@ -6,7 +6,7 @@ Are you bored? Don't you know what to do? You are luky. It is not a problem anym
 
 Users consult to the website to get an idea about activities they may do. 
 
-To implement this wep application, I will mimic <a href="https://www.headspace.com/">Head Space</a> website's layout. Besides, I will use <a href="https://www.boredapi.com/">Bored API</a>.
+To implement this wep application, I will mimic <a href="https://www.headspace.com/">Head Space</a> website's layout. Besides, I will use <a href="https://www.boredapi.com/">Bored API</a>. You can now visit <a href="https://esranurgalipkayahan.github.io/whattodo-project/">the website</a>, may change your life.
 <h2>The Design of The Website</h2>
 <img src="https://user-images.githubusercontent.com/61011249/136653540-857f8457-8797-4b16-9d40-27f66ced790c.png">
 <h2>The Usage of The Website</h2>
