@@ -7,7 +7,10 @@ Are you bored? Don't you know what to do? You are luky. It is not a problem anym
 Users consult to the website to get an idea about activities they may do. 
 
 To implement this wep application, I will mimic <a href="https://www.headspace.com/">Head Space</a> website's layout. Besides, I will use <a href="https://www.boredapi.com/">Bored API</a>.
-
+<h2>The Design of The Website</h2>
+<img src="https://user-images.githubusercontent.com/61011249/136653540-857f8457-8797-4b16-9d40-27f66ced790c.png">
+<h2>The Usage of The Website</h2>
+You have free time and do not know what you should do? Connect whattodo.com, find an activity according to the category you can choose, or you can let yourself into the hands of your destiny. Also, you can click anywhere over the webpage to enjoy with the relaxing music that we have choosen for you and keep enjoying with the changing music during the getting advice session.
 <h3>Must-Haves</h3>
 <ul>
   <li>User needs to select an activity type</li>
